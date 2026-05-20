@@ -27,7 +27,7 @@ public class NPCs : MonoBehaviour
     {
 
 
-        Debug.Log("Esse é meu nome: " + npcName);
+        Debug.Log("Esse é meu nome: " + npcName + "e sua idade é " + age);
 
 
 
