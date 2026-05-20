@@ -8,9 +8,10 @@ public class NPCs : MonoBehaviour
     private void Start()
     {
         NPCs roberto = new NPCs();
+        roberto.npcName = "Roberto";     
         roberto.age = 30;
         roberto.isFriendly = true;
-        roberto.npcName = "Roberto";
+
 
 
         NPCs julia = new NPCs();
